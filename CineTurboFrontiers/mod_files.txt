@@ -1,1 +1,11 @@
+add raw/character/dlc/dlccrm/!DEPENDENCIES.txt
+add raw/character/dlc/dlccrm/dlccrm.level
+add raw/character/dlc/dlccrm/dlccrm.pac
+add raw/character/dlc/dlccrm/dlccrm_sonic_advshoes.model
+add raw/character/dlc/dlccrm/dlccrm_sonic_advshoes_body.material
+add raw/character/dlc/dlccrm/dlccrm_sonic_advshoes_body_abd.dds
+add raw/character/dlc/dlccrm/dlccrm_sonic_advshoes_body_nrm.dds
+add raw/character/dlc/dlccrm/dlccrm_sonic_advshoes_body_prm.dds
+add raw/character/playercommon.pac
+add raw/character/sonic.pac
 add mod.ini
